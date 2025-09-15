@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arham-codes&label=Profile%20views&color=d33636&style=flat" alt="arham-codes" /> </p>
 
-- 🌱 I’m currently studying Software Engineering as a sophomore **!**
+- 🌱 I’m currently studying Software Engineering as a junior **!**
 
 <p align="left">
 </p>
